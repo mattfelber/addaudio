@@ -1,4 +1,4 @@
-# AddAudio: Simple Video Sound Enhancer
+# AddAudio: Simple Video Sound Merger
 
 This app takes a video file and an audio file (like music) and combines them into a new video that has the original visuals with the new audio track.
 
@@ -10,11 +10,11 @@ This app takes a video file and an audio file (like music) and combines them int
 
 ## When would you use this?
 
-- Adding background music to home videos
+- Adding background music to videos
 - Adding commentary to gameplay recordings
 - Creating videos with custom soundtracks
-- Adding sound effects to silent clips
 - Replacing poor quality audio with better audio
+- Replacing copyrighted music with royalty free
 
 ## Prerequisites
 
