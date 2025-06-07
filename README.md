@@ -11,7 +11,7 @@ This app takes a video file and an audio file (like music) and combines them int
 ## When would you use this?
 
 - Adding background music to videos
-- Adding commentary to gameplay recordings
+- Adding commentary track to video recordings
 - Creating videos with custom soundtracks
 - Replacing poor quality audio with better audio
 - Replacing copyrighted music with royalty free
